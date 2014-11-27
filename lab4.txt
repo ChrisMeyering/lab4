@@ -1,0 +1,140 @@
+//I added the ***Note*** part, it felt wrong never to
+//use the last variable
+
+Instruction maintenance program
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+There are no instructions to undo
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1 
+Enter instruction: Open box
+***Instructions***
+Open box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Remove contents of box
+***Instructions***
+Open box
+Remove contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Assemble product
+***Instructions***
+Open box
+Remove contents of box
+Assemble product
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+
+***Note***
+"Assemble product" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Read instructions
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Assemble product
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+Assemble product
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+***Note***
+"Assemble product" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Check contents of box
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+Check contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+***Note***
+"Check contents of box" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+
+***Note***
+"Read instructions" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+
+***Note***
+"Remove contents of box" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+***There are no instructions at this time***
+
+***Note***
+"Open box" has been removed from queue
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 3
