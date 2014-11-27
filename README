@@ -1,0 +1,3 @@
+lab4.cpp will create a Scroll (a queue in which you can remove
+most recently added item) and allow user to add/remove items
+form a queue of strings
